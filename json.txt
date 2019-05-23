@@ -1,0 +1,9 @@
+﻿{
+  "update": "Yes",
+  "new_version": "2.4.0.0",
+  "apk_file_url": "https://github.com/hcgrady2/Apk/raw/master/NBABox.apk",
+  "update_log": "1，修复了一点小问题。\r\n2，如果更新失败，请手动卸载并选择安装包安装（下载的安装包在 NBABox 文件夹下）。",
+  "target_size": "22.3M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": true
+}
